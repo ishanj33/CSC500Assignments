@@ -1,1 +1,1 @@
-# assignment1
+# CSC500 Assignments
